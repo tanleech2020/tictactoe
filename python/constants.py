@@ -1,0 +1,3 @@
+HUMAN = 1
+BOT = -1
+EMPTY = 0
