@@ -1,5 +1,4 @@
 from tictactoe import TicTacToe
-from gomuku import Gomuku
 from constants import HUMAN, BOT, EMPTY
 import numpy as np
 
